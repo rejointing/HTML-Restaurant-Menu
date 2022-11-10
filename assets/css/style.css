@@ -52,6 +52,10 @@ nav a:hover {
     color: darkred;
 }
 
+nav {
+    width: 100%
+}
+
 #banner {
     width: 100%;
     height: auto;
@@ -65,6 +69,8 @@ nav a:hover {
 
 .service {
     display: inline-block;
+    text-align: center;
+    width:fit-content;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
